@@ -73,4 +73,4 @@ The same contrast applies to the relationship between *computer science* and *so
 
 <hr>
 
-For better essay in English, I would like to take the ESLG1210 Academic Writing for Foreign Students class this semester. But the class was canceled since I’m the only student who enrolled the class. I will study by myself and try to write better essay.
+For better essay in English, I wanted to take the *'ESLG1210 Academic Writing for Foreign Students'* class this semester. But the class was canceled since I’m the only student who enrolled the class... I will study by myself and try to write better essay!
