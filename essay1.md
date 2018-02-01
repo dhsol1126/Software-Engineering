@@ -28,7 +28,5 @@ The items required by CMMI cover most of the topics covered in software engineer
 #### References:
 
 https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration
-
 http://cmmiinstitute.com
-
-Chrissis, Mary Beth., et al. CMMI for Development: Guidelines for Process Integration and Product Improvement. Addison-Wesley, 2011.
+Chrissis, Mary Beth., et al. *CMMI for Development: Guidelines for Process Integration and Product Improvement.* Addison-Wesley, 2011.
