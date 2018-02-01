@@ -23,6 +23,8 @@ If CMMI checks whether you are doing some essential things, then it means that t
 
 The items required by CMMI cover most of the topics covered in software engineering. It requires planning everything, recording everything, and reviewing everything. In order to obtain a high level of CMMI Level, all team members should think that all itmes are important and internalize them.
 
+<hr>
+
 #### References:
 https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration
 http://cmmiinstitute.com
