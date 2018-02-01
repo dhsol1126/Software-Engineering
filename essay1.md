@@ -14,15 +14,16 @@ What does it mean for organizations to be mature? If you look at an organization
 
 To determine the maturity of the software development organization, CMMI selects the items(activities) that organizations must perform. According to how many items they are doing, CMMI assigns a level. The items are that people think they should do, such as making your development plan properly, performing a review, and performing tests according to procedures. CMMI maturity levels is given based on how well they are performing them. Rather than experiencing trial and error, CMMI want companies to do things in the right process, not repeat mistakes, constantly improve, and not depend on specific individuals. The main features of CMMI Level 1-5 are as follows.
 
-
+![CMMIlevel](/pics/levels.JPG.png)
 (Source: http://cmmiinstitute.com)
 
-Why uses CMMI?
+### Why uses CMMI?
+
 If CMMI checks whether you are doing some essential things, then it means that there are organizations that does not do. In extreme cases, there may be organizations that do not care about everything but coding. Following CMMI can be cumbersome when you are working on a document you think is unnecessary, or when you have to go through several reviews for a simple problem. Then, why do we use CMMI? The fact that all items were checked and a company were given a high maturity level can guarantee the credibility of their process and product. And that means the project is being planned and managed by the appropriate process, rather than relying on personal abilities. CMMI helps organizations become better organizations by providing guidance for process improvement.
 
 The items required by CMMI cover most of the topics covered in software engineering. It requires planning everything, recording everything, and reviewing everything. In order to obtain a high level of CMMI Level, all team members should think that all itmes are important and internalize them.
 
-References:
+#### References:
 https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration
 http://cmmiinstitute.com
 Chrissis, Mary Beth., et al. CMMI for Development: Guidelines for Process Integration and Product Improvement. Addison-Wesley, 2011.
